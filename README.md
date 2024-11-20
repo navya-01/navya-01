@@ -25,5 +25,5 @@
 
 I'm always eager to connect with like-minded individuals who share a passion for technology and innovation. Feel free to reach out or explore my projects on GitHub!
 
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/navya-shetty)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/navyashetty01/)
 - **GitHub**: [Check out my repos](https://github.com/navya-01)
