@@ -23,7 +23,7 @@
 
 ## 💬 Let's Connect
 
-I'm always eager to connect with like-minded individuals who share a passion for technology and innovation. Feel free to reach out or explore my projects on GitHub!
+I'm always eager to connect with like-minded individuals who share a passion for technology and innovation. Feel free to reach out to me!
 
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/navyashetty01/)
-- **GitHub**: [Check out my repos](https://github.com/navya-01)
+
