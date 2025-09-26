@@ -7,7 +7,7 @@
 
 ## 📌 What I'm Working On
 
-- **RateMyDining**: A React Native app that delivers real-time updates and allows users to rate and provide feedback on dining experiences. I’m developing the backend using NodeJS, Express, and MongoDB to handle user data and generate personalized menu suggestions.
+- **RateMyDC**: A React Native app that delivers real-time updates and allows users to rate and provide feedback on dining experiences. I’m developing the backend using NodeJS, Express, and MongoDB to handle user data and generate personalized menu suggestions.
 - **Open Source Contributions**: Contributed to the **Open Energy Dashboard** by engineering unit tests with Cypress and producing comprehensive documentation to ensure a seamless experience for developers and users alike.
 
 ## 🌟 What I've Done
