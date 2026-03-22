@@ -17,7 +17,7 @@
 
 ## 🛠️ My Tech Stack
 
-- **Languages**: C++, HTML, CSS, JavaScript, TypeScript, Python, C, Java, SQL, PHP
+- **Languages**:  JavaScript, TypeScript, HTML, CSS, Python, C++, Java, SQL, PHP
 - **Frameworks & Tools**: ReactJS, NodeJS, MongoDB, Git, Cypress, Docker, Android Studio, VSCode, IntelliJ
 
 
