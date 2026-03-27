@@ -1,9 +1,7 @@
-
-
-![Hi There! I'm Navya Shetty](https://dummyimage.com/600x100/000/800080.png&text=Hi,+I'm+Navya+Shetty)
-
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e0033,100:6a0dad&height=200&section=header&text=Hi!+I'm+Navya+Shetty&fontSize=32&font=Poppins&fontAlignY=38&fontColor=ffffff) 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="22%" alt="Coding Banner" />
+
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=Frontend+Developer;React+%7C+Firebase;Building+LoveSetPlay)](https://git.io/typing-svg) -->
 
 ## 📌 What I'm Working On
 
