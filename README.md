@@ -1,8 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e0033,100:6a0dad&height=200&section=header&text=Hi!+I'm+Navya+Shetty&fontSize=32&font=Poppins&fontAlignY=38&fontColor=ffffff) 
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="22%" alt="Coding Banner" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeng1cmMyaHM0enc1bW9wOGk0ejA0Njh4ZGszdTJudTkzeW93ajN6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKWxuUOcp9fdvckBty/giphy.gif" width="15%" />
+    &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="22%" alt="Coding Banner" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY3cG83NHM1a2d1OHA1b25yOWtxYWhud28wMXB6czQwZnBoZnUxNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oBQZIgNobc7ewVWvCd/giphy.gif" width="15%" />
 </p>
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75C7E&lines=Frontend+Developer;React+%7C+Firebase;Building+LoveSetPlay)](https://git.io/typing-svg) -->
 
