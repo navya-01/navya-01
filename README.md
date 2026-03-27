@@ -1,6 +1,6 @@
 
 
-![Hi, I'm Navya Shetty](https://dummyimage.com/600x100/000/800080.png&text=Hi,+I'm+Navya+Shetty)
+![Hi There! I'm Navya Shetty](https://dummyimage.com/600x100/000/800080.png&text=Hi,+I'm+Navya+Shetty)
 
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="22%" alt="Coding Banner" />
